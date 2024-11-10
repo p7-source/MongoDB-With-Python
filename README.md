@@ -1,4 +1,5 @@
-# SQL-NoSQL
+# MongoDB With Python
+Here, we use `PyMongo` module to access MongoDB and all the code executed in Google Colab
 Master MongoDB with the 7 Queries
 This repository contains Python code written in a Jupyter notebook (.ipynb) file for mastering MongoDB with seven queries. 
 The code is designed to work with airline safety data sourced from the 'airline-safety.csv' file available on GitHub.
